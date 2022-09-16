@@ -1,4 +1,4 @@
 name:testing
-version:1.0
+version:v1.0
 path:/src
 dependencies:https://github.com/itsmebombie/testing-repo-for-mdls>https://github.com/itsmebombie/testing-repo-for-mdls
